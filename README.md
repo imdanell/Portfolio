@@ -7,7 +7,7 @@ Took the template from the last portfolio I built and honed in on the finishing 
 
 Follow this link to check out my work!   
 
-https://imdanell.github.io/NewHTMLportfolio-16/
+https://imdanell.github.io/Portfolio/
 
 
 ## License
