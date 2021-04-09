@@ -6,7 +6,7 @@ background: linear-gradient(110deg, rgba(243,250,235,1) 3%, rgba(159,217,230,1) 
 
 
 .jumbotron {
-    background: white;
+     background: white;
 background: radial-gradient(circle, white);
 }
 
@@ -23,6 +23,7 @@ background: radial-gradient(circle, white);
 .no-border {
     border: none;
 }
+
 
 
 
